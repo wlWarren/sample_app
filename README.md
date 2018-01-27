@@ -1,15 +1,11 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails项目
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+一个简单的ror项目
 
-## License
+## 项目地址
 
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+https://infinite-tundra-13807.herokuapp.com
+
 
 ## Getting started
 
@@ -36,6 +32,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
-
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
