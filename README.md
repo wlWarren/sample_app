@@ -1,6 +1,6 @@
 # Ruby on Rails项目
 
-一个简单的ror项目
+一个简单rails项目的实现，类Twitter。
 
 ## 项目地址
 
